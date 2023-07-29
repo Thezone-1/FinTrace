@@ -1,0 +1,12 @@
+com.example.wallet.app-jetified-window-java-1.0.0-beta04-0 C:\Users\msi\.gradle\caches\transforms-3\0ec401fa98aa34081c294372b48e7156\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.wallet.app-jetified-window-1.0.0-beta04-1 C:\Users\msi\.gradle\caches\transforms-3\c3377468fcde3694aefded5e9d13d0c8\transformed\jetified-window-1.0.0-beta04\res
+com.example.wallet.app-core-1.6.0-2 C:\Users\msi\.gradle\caches\transforms-3\fc460c5856162612012dd9fe9c84b1a1\transformed\core-1.6.0\res
+com.example.wallet.app-jetified-annotation-experimental-1.1.0-3 C:\Users\msi\.gradle\caches\transforms-3\ffc580e9a35a24d3c4f38f7c0ab8e6f0\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.wallet.app-debug-4 D:\code\android works\flutter project\wallet-master\android\app\src\debug\res
+com.example.wallet.app-main-5 D:\code\android works\flutter project\wallet-master\android\app\src\main\res
+com.example.wallet.app-pngs-6 D:\code\android works\flutter project\wallet-master\build\app\generated\res\pngs\debug
+com.example.wallet.app-resValues-7 D:\code\android works\flutter project\wallet-master\build\app\generated\res\resValues\debug
+com.example.wallet.app-rs-8 D:\code\android works\flutter project\wallet-master\build\app\generated\res\rs\debug
+com.example.wallet.app-mergeDebugResources-9 D:\code\android works\flutter project\wallet-master\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.wallet.app-mergeDebugResources-10 D:\code\android works\flutter project\wallet-master\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.wallet.app-merged_res-11 D:\code\android works\flutter project\wallet-master\build\app\intermediates\merged_res\debug

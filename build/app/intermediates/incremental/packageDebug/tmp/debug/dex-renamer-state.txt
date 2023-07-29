@@ -1,0 +1,4 @@
+#Sat Jul 29 15:53:30 IST 2023
+base.0=D\:\\code\\android works\\flutter project\\wallet-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
