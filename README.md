@@ -12,7 +12,11 @@ Budget Planning: Set budgets for different spending categories and get notified 
 Financial Goals: Define your financial goals and track your progress as you work towards achieving them.
 
 # 3. Demo
-https://drive.google.com/file/d/1ii4x_OtX8f_vN6KoJn3ETPIpBLTF5wQz/view?usp=drive_link
+
+
+
+https://github.com/Thezone-1/FinTrace/assets/93027546/e10f39fd-704f-4631-84ff-912fe93b9356
+
 
 
 
