@@ -17,6 +17,11 @@ Financial Goals: Define your financial goals and track your progress as you work
 
 https://github.com/Thezone-1/FinTrace/assets/93027546/e10f39fd-704f-4631-84ff-912fe93b9356
 
+# 4 Installation
+For Android: Download the apk file and proceed with the installation
+For Desktop: Start a Vertual Device and then run the code following:
+    flutter puub get 
+    flutter run 
 
 
 
