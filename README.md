@@ -12,6 +12,8 @@ Budget Planning: Set budgets for different spending categories and get notified 
 Financial Goals: Define your financial goals and track your progress as you work towards achieving them.
 
 # 3. Demo
+https://drive.google.com/file/d/1ii4x_OtX8f_vN6KoJn3ETPIpBLTF5wQz/view?usp=drive_link
+
 
 
 Reports and Analytics: View interactive charts and graphs to gain insights into your spending habits and financial trends.
